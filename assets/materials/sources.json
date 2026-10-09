@@ -1,0 +1,90 @@
+{
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "provider_license_url": "https://polyhaven.com/license",
+  "downloaded": "2026-10-09",
+  "assets": [
+    {
+      "file": "wood_table_001_diff_1k.jpg",
+      "asset": "wood_table_001",
+      "source": "https://polyhaven.com/a/wood_table_001",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_table_001/wood_table_001_diff_1k.jpg",
+      "license": "CC0-1.0",
+      "bytes": 215573,
+      "md5": "56652a7339b16a76afad20d3585f66ea"
+    },
+    {
+      "file": "wood_table_001_nor_gl_1k.jpg",
+      "asset": "wood_table_001",
+      "source": "https://polyhaven.com/a/wood_table_001",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_table_001/wood_table_001_nor_gl_1k.jpg",
+      "license": "CC0-1.0",
+      "bytes": 51927,
+      "md5": "6360e09967add8baecaa5ecc55fb5e03"
+    },
+    {
+      "file": "wood_table_001_rough_1k.jpg",
+      "asset": "wood_table_001",
+      "source": "https://polyhaven.com/a/wood_table_001",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_table_001/wood_table_001_rough_1k.jpg",
+      "license": "CC0-1.0",
+      "bytes": 237261,
+      "md5": "05b60bd20a1cc4355c5d73a99b245d44"
+    },
+    {
+      "file": "studio_small_09_1k.hdr",
+      "asset": "studio_small_09",
+      "source": "https://polyhaven.com/a/studio_small_09",
+      "download": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_09_1k.hdr",
+      "license": "CC0-1.0",
+      "bytes": 1615248,
+      "md5": "d5d7eb9d26d341d6aa4d11c1a54fd97c"
+    },
+    {
+      "file": "hinoki_planks_diff_2k.jpg",
+      "asset": "hinoki_planks",
+      "source": "https://polyhaven.com/a/hinoki_planks",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hinoki_planks/hinoki_planks_diff_2k.jpg",
+      "license": "CC0-1.0",
+      "author": "Charlotte Baglioni",
+      "dimensions_mm": [
+        1890,
+        1890
+      ],
+      "bytes": 2117798,
+      "md5": "4f0ad5facbc907b88c079a1c109bf820",
+      "map": "Diffuse"
+    },
+    {
+      "file": "hinoki_planks_nor_gl_2k.jpg",
+      "asset": "hinoki_planks",
+      "source": "https://polyhaven.com/a/hinoki_planks",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hinoki_planks/hinoki_planks_nor_gl_2k.jpg",
+      "license": "CC0-1.0",
+      "author": "Charlotte Baglioni",
+      "dimensions_mm": [
+        1890,
+        1890
+      ],
+      "bytes": 2213410,
+      "md5": "32232e4e48f1004b2c68964a123a582a",
+      "map": "nor_gl"
+    },
+    {
+      "file": "hinoki_planks_rough_2k.jpg",
+      "asset": "hinoki_planks",
+      "source": "https://polyhaven.com/a/hinoki_planks",
+      "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hinoki_planks/hinoki_planks_rough_2k.jpg",
+      "license": "CC0-1.0",
+      "author": "Charlotte Baglioni",
+      "dimensions_mm": [
+        1890,
+        1890
+      ],
+      "bytes": 666730,
+      "md5": "e0a0f958b37c85499c60b569a5aa274a",
+      "map": "Rough"
+    }
+  ],
+  "notes": "Unmodified official 1K asset downloads. Wood Table 001: Dimitrios Savva (photography), Rico Cilliers (processing). Studio Small 09: Sergej Majboroda. Hinoki Planks: unmodified official 2K texture maps, photographed by Charlotte Baglioni; scan covers 1.89 × 1.89 m. Steel brushing maps are deterministic procedural surface data authored for AQUA, not external stock."
+}

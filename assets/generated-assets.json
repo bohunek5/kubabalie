@@ -1,0 +1,59 @@
+{
+  "provider": "Built-in image_gen tool",
+  "created": "2026-11-05",
+  "usage": "Concept visualization, not evidence of delivered installations or confirmed product appearance",
+  "exports": "JPEG export from generated PNG originals; no visual content modifications",
+  "assets": [
+    {
+      "file": "hero.jpg",
+      "source": "exec-dd2194e1-17a7-4042-8714-1cf93569dcdb.png",
+      "prompt": "Photorealistic architectural editorial photograph of a dark thermowood glass-front garden sauna and round cedar hot tub on a timber deck by a birch and pine lake in northern Poland, warm evening, restrained natural materials, open shadow space for typography, no people or text. Concept visualization."
+    },
+    {
+      "file": "complex.jpg",
+      "source": "exec-a938e192-fb78-4789-bbae-80617f8992e2.png",
+      "prompt": "Elevated architectural photograph of a cohesive garden SPA: glass-front sauna, round hot tub, minimal pergola, two loungers, rectangular oak deck, pine/birch forest, ornamental grasses. Warm overcast daylight, legible garden layout, no people or text. Concept visualization."
+    },
+    {
+      "file": "sauna.jpg",
+      "source": "exec-b60c7d08-0e6b-44cd-bafb-2a5ffd33c67d.png",
+      "prompt": "Premium contemporary cube garden sauna, cedar cladding, black trim, broad glass facade with timber benches and stove, pine forest garden, three-quarter architectural product photograph, warm natural materials, no people or text. Concept visualization."
+    },
+    {
+      "file": "balia.jpg",
+      "source": "exec-352f1386-98db-4cbb-b18d-370a94496da6.png",
+      "prompt": "Premium round cedar hot tub, pale ivory shell, rippling warm pale-teal water, subtle steam, matching stair and external black heater, timber deck, grasses and lake, slightly elevated editorial product photograph, no people or text. Concept visualization."
+    },
+    {
+      "file": "products/ritual.jpg",
+      "source": "exec-da51f936-becb-430c-a068-cda812c47c54.png",
+      "prompt": "Premium sauna accessory still life on limestone: cedar water bucket, ladle, round thermometer, sand timer and folded linen towel. Soft light, no people or logos. Concept product photograph."
+    },
+    {
+      "file": "products/shower.jpg",
+      "source": "exec-59021396-3412-4861-9471-9f48743cb937.png",
+      "prompt": "Minimal matte-graphite outdoor shower on oak slatted base, refined garden backdrop, warm daylight, entire product visible. No text or people. Concept product photograph."
+    },
+    {
+      "file": "products/cover.jpg",
+      "source": "exec-6b6d73a8-5352-4895-88f5-73d5d9b7192e.png",
+      "prompt": "Round insulated graphite hot tub cover, textile stitching and hinged seam on cedar tub, elevated product angle, pale warm studio background. No people or logos. Concept product photograph."
+    },
+    {
+      "file": "products/light.jpg",
+      "source": "exec-157506ef-b7b7-47e3-b438-6276a51da97d.png",
+      "prompt": "Warm indirect LED profile beneath cedar sauna benches, architectural material detail with natural timber texture, no people or logos. Concept product photograph."
+    }
+  ],
+  "modelRenders": {
+    "files": [
+      "products/sauna-panorama.jpg",
+      "products/sauna-forest.jpg",
+      "products/sauna-barrel.jpg",
+      "products/tub-nordic.jpg",
+      "products/tub-family.jpg",
+      "products/tub-cube.jpg"
+    ],
+    "source": "Local Three.js configurator scene renders, conceptual geometry matching shared demo catalog."
+  }
+}

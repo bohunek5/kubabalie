@@ -1,6 +1,6 @@
 {
   "format": "ssc-public-build-v1",
-  "builtAt": "2026-11-05T21:16:39.886Z",
+  "builtAt": "2026-11-05T22:06:18.405Z",
   "base": "/kubabalie/",
   "routes": [
     "/",
@@ -36,9 +36,9 @@
     "/produkt/sauna-light"
   ],
   "privateFileCount": 25,
-  "sourceFileCount": 168,
+  "sourceFileCount": 172,
   "publicAssetCount": 110,
-  "appSha256": "3cb423dbe77d0bc09c6afdd363d6a87dc4bdee602d98f590066744fea8a17cc8",
-  "sourceSha256": "4c18aec194e72da23487a61582a431930366a37de8d5bc60a418ccb1baf6ceec",
+  "appSha256": "676e4d06684351b2851ab7e86757ae4d276ed63251ffe8671ef809dbd0e34b46",
+  "sourceSha256": "34baba04b58731749831ad804cbe346eb8c29290547c394c801ea0b4088641b5",
   "sourceEncoding": "AES-256-GCM / PBKDF2-SHA-256 600000 / gzip JSON file map"
 }

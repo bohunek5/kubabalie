@@ -1,0 +1,65 @@
+[
+  {
+    "original": "assets\\company-original\\sauna-noc.jpg",
+    "web": "assets\\company-web\\sauna-noc.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "6a03af99e88a61825417679941ca96e98b7a1a92107d4bdd1096c394aa2093c6",
+    "bytes": 197352
+  },
+  {
+    "original": "assets\\company-original\\sauna-pod2.jpg",
+    "web": "assets\\company-web\\sauna-pod2.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "2f558a0373ea42ed8b675431da1d5403136ed926b658fbb81c8dc0dd01ed0948",
+    "bytes": 169964
+  },
+  {
+    "original": "assets\\company-original\\sauna-duza.jpg",
+    "web": "assets\\company-web\\sauna-duza.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "77f512f2da1d9211216126dd3dd31936c07a8cc1036b0be279572077b12800b3",
+    "bytes": 183176
+  },
+  {
+    "original": "assets\\company-original\\sauna-front.jpg",
+    "web": "assets\\company-web\\sauna-front.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "2dde50929f8487b1b3b98580bc543c91bbdda397636ee903a07e77a9e3787bca",
+    "bytes": 258452
+  },
+  {
+    "original": "assets\\company-original\\sauna-wnetrze.jpg",
+    "web": "assets\\company-web\\sauna-wnetrze.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "93d3c65b0a902827e468c497b4df15e06036795a3d10f244c674e74325adebb7",
+    "bytes": 131614
+  },
+  {
+    "original": "assets\\company-original\\balia-ogrod.jpg",
+    "web": "assets\\company-web\\balia-ogrod.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "06fc5ba81d8757b2b79bdcea8462eff10e831c34b08d15f0e74eddb44eeefdbd",
+    "bytes": 595862
+  },
+  {
+    "original": "assets\\company-original\\balia-drewno.jpg",
+    "web": "assets\\company-web\\balia-drewno.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "ef39fcb76986b5a8bacaa20b4b83f824ad2ed4ef40da745fe9dc7b11ade066e3",
+    "bytes": 560400
+  },
+  {
+    "original": "assets\\company-original\\balia-zima.jpg",
+    "web": "assets\\company-web\\balia-zima.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "3879dc5b6fbe7307b5ce6a5d37fed75cd54a1f2054898b5f2baf3397e0d2a56e",
+    "bytes": 135878
+  },
+  {
+    "original": "assets\\company-original\\balia-jacuzzi.jpg",
+    "web": "assets\\company-web\\balia-jacuzzi.webp",
+    "operation": "EXIF orientation, proportional resize, WebP encoding; no compositing or generated content",
+    "sha256": "dbbec93a386473eabce6f5eab17f5b4dadbace3e2ab34cf8660dd3d9614a1a32",
+    "bytes": 213092
+  }
+]

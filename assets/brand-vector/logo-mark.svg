@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="25 0 120 48" role="img" aria-labelledby="ssc-vector-title"><title id="ssc-vector-title">Suwalska Strefa Ciepła</title><!-- Original symbol and serif lettering reconstructed as paths; no raster artwork or runtime font. --><style>
+.ssc-vector-fire-enter{transform-box:fill-box;transform-origin:50% 100%;animation:ssc-brand-ignite 1.1s cubic-bezier(.2,.7,.2,1) both}
+.ssc-vector-fire{transform-box:fill-box;transform-origin:50% 100%;animation:ssc-brand-flame 4.8s ease-in-out infinite}
+.ssc-vector-flame-trace{stroke:var(--ssc-brand-gold,#b9975a);stroke-width:.7;stroke-linejoin:round;opacity:.6;animation:ssc-brand-ember 4.8s ease-in-out infinite}
+.ssc-vector-dome{stroke-dasharray:180;stroke-dashoffset:0;animation:ssc-brand-draw 1.8s cubic-bezier(.2,.65,.2,1) both}
+.ssc-vector-wave{transform-box:fill-box;transform-origin:center;stroke:var(--ssc-brand-water,#087f8c);animation:ssc-brand-wave 4s ease-in-out infinite}
+.ssc-vector-bubble{transform-box:fill-box;transform-origin:center;fill:var(--ssc-brand-water,#087f8c);stroke:none;animation:ssc-brand-bubble 3.8s ease-in-out infinite;animation-delay:var(--ssc-delay,0s)}
+.ssc-vector-sauna-glow{stroke:var(--ssc-brand-gold,#b9975a);animation:ssc-brand-glow 5.6s ease-in-out infinite}
+.ssc-vector-brand:hover .ssc-vector-fire,.ssc-vector-brand:focus-within .ssc-vector-fire{animation-duration:2.2s}
+.ssc-vector-brand:hover .ssc-vector-flame-trace{stroke-width:1;opacity:1}
+.ssc-vector-brand:hover .ssc-vector-wave{animation-duration:2.1s}
+body[data-motion="paused"] .ssc-vector-brand *{animation-play-state:paused!important}
+body[data-motion="paused"] .ssc-vector-fire-enter,body[data-motion="paused"] .ssc-vector-dome{animation:none!important;opacity:1;transform:none;stroke-dashoffset:0}
+body[data-site-theme="night"] .ssc-vector-brand{--ssc-brand-water:#70c8d1;--ssc-brand-gold:#d3b67c}
+@keyframes ssc-brand-ignite{from{opacity:.25;transform:translateY(2px) scaleY(.65)}to{opacity:1;transform:none}}
+@keyframes ssc-brand-flame{0%,100%{transform:skewX(-2deg) scale(.98,1)}30%{transform:skewX(2.5deg) scale(1.015,1.065)}65%{transform:skewX(-1deg) scale(.97,.97)}}
+@keyframes ssc-brand-ember{0%,100%{opacity:.25}40%{opacity:.85}70%{opacity:.4}}
+@keyframes ssc-brand-draw{from{stroke-dashoffset:180;opacity:.25}to{stroke-dashoffset:0;opacity:1}}
+@keyframes ssc-brand-wave{0%,100%{transform:translate(-.75px,.1px)}50%{transform:translate(.75px,-.25px)}}
+@keyframes ssc-brand-bubble{0%,12%{opacity:0;transform:translateY(1.2px) scale(.6)}30%,65%{opacity:.85}90%,100%{opacity:0;transform:translateY(-2.5px) scale(1.1)}}
+@keyframes ssc-brand-glow{0%,100%{opacity:.35}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){
+ .ssc-vector-brand *,.ssc-vector-symbol *,.ssc-vector-services *{animation:none!important;transition:none!important;transform:none}
+ .ssc-vector-flame-trace{opacity:.45}.ssc-vector-bubble{opacity:.65}.ssc-vector-sauna-glow{opacity:.8}
+}
+@media print{.ssc-vector-brand *,.ssc-vector-symbol *,.ssc-vector-services *{animation:none!important;transform:none}.ssc-vector-flame-trace{opacity:0}}
+</style><g class="ssc-vector-symbol"><path class="ssc-vector-dome" d="M30.2 41.5H52.4V39.5C52.4 22 64.8 7.5 81.7 5.9M89 6C105.7 7.7 118.5 21.9 118.5 39.5V41.5H140.3" fill="none" stroke="currentColor" stroke-width=".95" stroke-linecap="square"/><g class="ssc-vector-fire-enter"><g class="ssc-vector-fire"><path d="M86.8 2.2C83.4 5.9 80.2 10.3 81.1 15.7C82.1 19.8 81.1 23.5 78.5 22.1C76.6 21.1 76.2 18.6 76.6 16.1C73.7 18.3 73 21.7 74 25.4C74.9 28.6 74.2 31.7 72 31.2C70.2 30.8 69.8 28.7 70.1 26.1C67.6 29.3 67.1 34.1 68.8 38C70.5 42 75 44.3 79.9 45C77.5 42.3 77.1 38.6 78.9 35.2C81.2 30.9 85.1 28.9 86.5 24.8C88 27.4 87.1 30.5 85.6 33.5C83.7 37 84.1 40.6 87 43.1C87.5 40.5 88.6 38 90.4 36.7C92.7 39.3 93.4 42.3 91.8 45C97.2 43.5 100.6 39.2 100.6 34C100.6 30.6 99 27.8 96.7 25.5C97.1 28.5 96 32.5 93.7 32.2C91.5 31.9 91.7 28.3 92 25.5C92.8 19.5 91.7 16.3 88.7 11.6C86.6 8.2 85.3 5.5 86.8 2.2Z" fill="currentColor"/><path class="ssc-vector-flame-trace" d="M86.8 2.2C83.4 5.9 80.2 10.3 81.1 15.7C82.1 19.8 81.1 23.5 78.5 22.1C76.6 21.1 76.2 18.6 76.6 16.1C73.7 18.3 73 21.7 74 25.4C74.9 28.6 74.2 31.7 72 31.2C70.2 30.8 69.8 28.7 70.1 26.1C67.6 29.3 67.1 34.1 68.8 38C70.5 42 75 44.3 79.9 45C77.5 42.3 77.1 38.6 78.9 35.2C81.2 30.9 85.1 28.9 86.5 24.8C88 27.4 87.1 30.5 85.6 33.5C83.7 37 84.1 40.6 87 43.1C87.5 40.5 88.6 38 90.4 36.7C92.7 39.3 93.4 42.3 91.8 45C97.2 43.5 100.6 39.2 100.6 34C100.6 30.6 99 27.8 96.7 25.5C97.1 28.5 96 32.5 93.7 32.2C91.5 31.9 91.7 28.3 92 25.5C92.8 19.5 91.7 16.3 88.7 11.6C86.6 8.2 85.3 5.5 86.8 2.2Z" fill="none"/></g></g></g></svg>

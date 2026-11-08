@@ -1,0 +1,312 @@
+{
+  "checkedAt": "2026-11-08T12:03:57.280043+00:00",
+  "url": "https://www.suwalskastrefaciepla.pl/",
+  "finalUrl": "https://www.suwalskastrefaciepla.pl/",
+  "pageSha256": "070fdba70378d7eebd5da0acffeb1cbfc8226994a771731234fae11d5b17c3e7",
+  "imageCount": 20,
+  "images": [
+    {
+      "index": 0,
+      "alt": "Suwalska Strefa Ciepła",
+      "sourceKind": "embedded-data-uri",
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/",
+      "attributes": {
+        "alt": "Suwalska Strefa Ciepła"
+      },
+      "width": 167,
+      "height": 104,
+      "bytes": 7880,
+      "sha256": "85cb0232597f77df412a9578811140cb50e29af734a6fa1188afd68ad251a495",
+      "matchesLocalOriginal": "/assets/company-original/logo-original.jpg"
+    },
+    {
+      "index": 1,
+      "alt": "Sauna ogrodowa",
+      "sourceKind": "embedded-data-uri",
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/",
+      "attributes": {
+        "alt": "Sauna ogrodowa"
+      },
+      "width": 576,
+      "height": 524,
+      "bytes": 90546,
+      "sha256": "4480e1a44f3bb4ca488b1875e338318744f92863be9dc8a14cf38de735bd841f",
+      "matchesLocalOriginal": "/assets/company-original/sauna-hero-original.jpg"
+    },
+    {
+      "index": 2,
+      "alt": "Sauna ogrodowa",
+      "sourceKind": "embedded-data-uri",
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/",
+      "attributes": {
+        "alt": "Sauna ogrodowa"
+      },
+      "width": 259,
+      "height": 269,
+      "bytes": 28576,
+      "sha256": "9eee78df7b7abe91a0732ee001e3886d0f756524c98f84ad06ccb0bf8b4404be",
+      "matchesLocalOriginal": "/assets/company-original/sauna-offer-original.jpg"
+    },
+    {
+      "index": 3,
+      "alt": "Balia ogrodowa nocą",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-noc.jpg",
+      "attributes": {
+        "alt": "Balia ogrodowa nocą"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 4,
+      "alt": "Sauna nocą",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-noc.jpg",
+      "attributes": {
+        "alt": "Sauna nocą"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 5,
+      "alt": "Wnętrze sauny",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-wnetrze.jpg",
+      "attributes": {
+        "alt": "Wnętrze sauny"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 6,
+      "alt": "Sauna typu pod",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-pod2.jpg",
+      "attributes": {
+        "alt": "Sauna typu pod"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 7,
+      "alt": "Balia jacuzzi",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-jacuzzi.jpg",
+      "attributes": {
+        "alt": "Balia jacuzzi"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 8,
+      "alt": "Duża sauna",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-duza.jpg",
+      "attributes": {
+        "alt": "Duża sauna"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 9,
+      "alt": "Sauna front",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-front.jpg",
+      "attributes": {
+        "alt": "Sauna front"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 10,
+      "alt": "Sauna boczna",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-boczna.jpg",
+      "attributes": {
+        "alt": "Sauna boczna"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 11,
+      "alt": "Sauna pod",
+      "sourceKind": "URL",
+      "sourceUrl": "images/sauna-pod.jpg",
+      "attributes": {
+        "alt": "Sauna pod"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 12,
+      "alt": "Balia drewniana",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-drewno.jpg",
+      "attributes": {
+        "alt": "Balia drewniana"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 13,
+      "alt": "Balia w ogrodzie",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-ogrod.jpg",
+      "attributes": {
+        "alt": "Balia w ogrodzie"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 14,
+      "alt": "Balia zimą",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-zima.jpg",
+      "attributes": {
+        "alt": "Balia zimą"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 15,
+      "alt": "Balia zimą",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-zima2.jpg",
+      "attributes": {
+        "alt": "Balia zimą"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 16,
+      "alt": "Balia nocą",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-noc.jpg",
+      "attributes": {
+        "alt": "Balia nocą"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 17,
+      "alt": "Balia jacuzzi",
+      "sourceKind": "URL",
+      "sourceUrl": "images/balia-jacuzzi.jpg",
+      "attributes": {
+        "alt": "Balia jacuzzi"
+      },
+      "matchesLocalOriginal": null
+    },
+    {
+      "index": 18,
+      "alt": "Suwalska Strefa Ciepła",
+      "sourceKind": "embedded-data-uri",
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/",
+      "attributes": {
+        "alt": "Suwalska Strefa Ciepła"
+      },
+      "width": 167,
+      "height": 104,
+      "bytes": 7880,
+      "sha256": "85cb0232597f77df412a9578811140cb50e29af734a6fa1188afd68ad251a495",
+      "matchesLocalOriginal": "/assets/company-original/logo-original.jpg"
+    },
+    {
+      "index": 19,
+      "alt": "Powiększone zdjęcie",
+      "sourceKind": "URL",
+      "sourceUrl": "",
+      "attributes": {
+        "alt": "Powiększone zdjęcie"
+      },
+      "matchesLocalOriginal": null
+    }
+  ],
+  "srcsets": [],
+  "imageLinks": [],
+  "scriptUrls": [],
+  "largerSourceFound": false,
+  "conclusion": "The five exact public image URLs were downloaded and decoded. No higher native dimensions were found than the existing originals. The official HTML exposes no srcset or alternate full-size image links; original camera files may exist privately but were not available from this website.",
+  "primaryPhotoVerification": [
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/sauna-noc.jpg",
+      "sourceFile": "/assets/company-original/sauna-noc.jpg",
+      "sourceNativeDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "publishedDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sourceSha256": "950cd55c2a95e62ffe3d42bb5cc224d573157777e94e18c44e4138715a9739fc",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "sauna-noc"
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/sauna-duza.jpg",
+      "sourceFile": "/assets/company-original/sauna-duza.jpg",
+      "sourceNativeDimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "publishedDimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "sourceSha256": "4819599be0500a0fc74e6c6ba2bbae343cbe1628f1feb176e79cf800ed096c3d",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "sauna-duza"
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/sauna-wnetrze.jpg",
+      "sourceFile": "/assets/company-original/sauna-wnetrze.jpg",
+      "sourceNativeDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "publishedDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sourceSha256": "8ef44e5df878c9c611fa5e21c2ef9d25b20a0e79cf8a89cd1e23bb09d0eaea3e",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "sauna-wnetrze"
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/balia-ogrod.jpg",
+      "sourceFile": "/assets/company-original/balia-ogrod.jpg",
+      "sourceNativeDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "publishedDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "sourceSha256": "f59b5cf0ecb7d233b46226b1d640f4b3270e28f5dddc8711b351a5365caa1194",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "balia-ogrod"
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/balia-drewno.jpg",
+      "sourceFile": "/assets/company-original/balia-drewno.jpg",
+      "sourceNativeDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "publishedDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "sourceSha256": "0e3d6c551f81c36d967cbf6881d8f94c813b80054224c0a030993eecfe1199a6",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "balia-drewno"
+    }
+  ]
+}

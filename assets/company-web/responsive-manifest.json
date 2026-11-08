@@ -1,0 +1,327 @@
+{
+  "createdAt": "2026-11-08T12:04:53.457975+00:00",
+  "method": {
+    "resize": "Pillow LANCZOS, proportional, no crop",
+    "sharpen": "UnsharpMask radius 0.6, percent 45, threshold 3 after resizing",
+    "colorAdjustment": "None; preserve source colors",
+    "exifOrientation": "Applied before resizing",
+    "generatedDetails": false,
+    "aiUsed": false,
+    "native4k": false,
+    "fourKDefinition": "3840 pixels on the longer side; original aspect ratio retained; these are enlarged derivatives, not native 4K photographs",
+    "webpQuality": 90,
+    "fourKQuality": 94
+  },
+  "assets": [
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/sauna-noc.jpg",
+      "sourceFile": "/assets/company-original/sauna-noc.jpg",
+      "sourceNativeDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "publishedDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sourceSha256": "950cd55c2a95e62ffe3d42bb5cc224d573157777e94e18c44e4138715a9739fc",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "sauna-noc",
+      "variants": [
+        {
+          "file": "/assets/company-web/responsive/sauna-noc-640.webp",
+          "width": 640,
+          "height": 853,
+          "bytes": 104750,
+          "sha256": "1354043863c71849c9b062870a67bd0f02723a6368d7496a403d7dfb061ef722",
+          "upscaled": false,
+          "scale": 0.53333,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/sauna-noc-1280.webp",
+          "width": 1280,
+          "height": 1707,
+          "bytes": 282894,
+          "sha256": "a52fb34ea8dfd08be171414ff26239569b8218ead7ada2c7225fdd1502dfa9d1",
+          "upscaled": true,
+          "scale": 1.06667,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/sauna-noc-1920.webp",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 440976,
+          "sha256": "4b7b0f1cfe2124ba480282244539d64f214b1738c2f219f2bf2010cf9d0071cb",
+          "upscaled": true,
+          "scale": 1.6,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/4k/sauna-noc-4k.webp",
+          "width": 2880,
+          "height": 3840,
+          "bytes": 981064,
+          "sha256": "923fc0d96e6f33e67f7c2543c6a38486e6d969cc9c6f5af45d49030801a9cfca",
+          "upscaled": true,
+          "scale": 2.4,
+          "role": "full-view",
+          "native4k": false
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/sauna-duza.jpg",
+      "sourceFile": "/assets/company-original/sauna-duza.jpg",
+      "sourceNativeDimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "publishedDimensions": {
+        "width": 1600,
+        "height": 1200
+      },
+      "sourceSha256": "4819599be0500a0fc74e6c6ba2bbae343cbe1628f1feb176e79cf800ed096c3d",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "sauna-duza",
+      "variants": [
+        {
+          "file": "/assets/company-web/responsive/sauna-duza-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 61632,
+          "sha256": "575ec63ebf79bbf27e665bf7427ebde9777af0d57f26b6baf8d4068b002ddd6f",
+          "upscaled": false,
+          "scale": 0.4,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/sauna-duza-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 173268,
+          "sha256": "b0589bc424f1a7f0071f13656d6686391a6efa15e3ee8337b1ded378bb34a7a0",
+          "upscaled": false,
+          "scale": 0.8,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/sauna-duza-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 285270,
+          "sha256": "4b1a26f781382bab65b4502390a700fb5dcc6ea1e05c884564339d200acbe73a",
+          "upscaled": true,
+          "scale": 1.2,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/4k/sauna-duza-4k.webp",
+          "width": 3840,
+          "height": 2880,
+          "bytes": 881652,
+          "sha256": "6209fd243c41d7f17d918cb757a56b574cc9031bc212cfe258c86fe012ace68c",
+          "upscaled": true,
+          "scale": 2.4,
+          "role": "full-view",
+          "native4k": false
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/sauna-wnetrze.jpg",
+      "sourceFile": "/assets/company-original/sauna-wnetrze.jpg",
+      "sourceNativeDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "publishedDimensions": {
+        "width": 1200,
+        "height": 1600
+      },
+      "sourceSha256": "8ef44e5df878c9c611fa5e21c2ef9d25b20a0e79cf8a89cd1e23bb09d0eaea3e",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "sauna-wnetrze",
+      "variants": [
+        {
+          "file": "/assets/company-web/responsive/sauna-wnetrze-640.webp",
+          "width": 640,
+          "height": 853,
+          "bytes": 76940,
+          "sha256": "8973aee6fd80a04a3ee56a93af0e9f0ddcce8454b77150ccf8b91df691632d4e",
+          "upscaled": false,
+          "scale": 0.53333,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/sauna-wnetrze-1280.webp",
+          "width": 1280,
+          "height": 1707,
+          "bytes": 189604,
+          "sha256": "69055498cce0dc242b1d8fa89a753b97c7161463a3b574a96bc9b8b556dd4b86",
+          "upscaled": true,
+          "scale": 1.06667,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/sauna-wnetrze-1920.webp",
+          "width": 1920,
+          "height": 2560,
+          "bytes": 291022,
+          "sha256": "0d86f68732032360a32bf078fbc4dbf9693b0669f2bfb67bb8703994f8494557",
+          "upscaled": true,
+          "scale": 1.6,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/4k/sauna-wnetrze-4k.webp",
+          "width": 2880,
+          "height": 3840,
+          "bytes": 707082,
+          "sha256": "84b3df4132de020a62ecb633bc9fbccaf064c22ad9fc8d4e46c9316d1fad460d",
+          "upscaled": true,
+          "scale": 2.4,
+          "role": "full-view",
+          "native4k": false
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/balia-ogrod.jpg",
+      "sourceFile": "/assets/company-original/balia-ogrod.jpg",
+      "sourceNativeDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "publishedDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "sourceSha256": "f59b5cf0ecb7d233b46226b1d640f4b3270e28f5dddc8711b351a5365caa1194",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "balia-ogrod",
+      "variants": [
+        {
+          "file": "/assets/company-web/responsive/balia-ogrod-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 140058,
+          "sha256": "d1d61ef7a862267b7260e4be24262730ac9a0a9f07115e9e80b246151d54367c",
+          "upscaled": false,
+          "scale": 0.41667,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/balia-ogrod-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 518578,
+          "sha256": "2de23db8d4474e192315bccebfeee4bc31f0933c932af122485ed2ec20636897",
+          "upscaled": false,
+          "scale": 0.83333,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/balia-ogrod-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 978058,
+          "sha256": "3b40a4a51c3aa6cb136ee74f3d0dde4da135aea6ddb8307b7fefe29fd337982e",
+          "upscaled": true,
+          "scale": 1.25,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/4k/balia-ogrod-4k.webp",
+          "width": 3840,
+          "height": 2880,
+          "bytes": 2642208,
+          "sha256": "02efc88168423001d1ab49983fac584d9d63f62ede315ef1bf2a2eae79684819",
+          "upscaled": true,
+          "scale": 2.5,
+          "role": "full-view",
+          "native4k": false
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://www.suwalskastrefaciepla.pl/images/balia-drewno.jpg",
+      "sourceFile": "/assets/company-original/balia-drewno.jpg",
+      "sourceNativeDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "publishedDimensions": {
+        "width": 1536,
+        "height": 1152
+      },
+      "sourceSha256": "0e3d6c551f81c36d967cbf6881d8f94c813b80054224c0a030993eecfe1199a6",
+      "downloadedHigherOriginal": false,
+      "publishedBytesMatchLocal": true,
+      "id": "balia-drewno",
+      "variants": [
+        {
+          "file": "/assets/company-web/responsive/balia-drewno-640.webp",
+          "width": 640,
+          "height": 480,
+          "bytes": 128916,
+          "sha256": "09861a82eef9687584039eb8405fced22bd7323b7f26b964cda337d2e715e3ea",
+          "upscaled": false,
+          "scale": 0.41667,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/balia-drewno-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "bytes": 490470,
+          "sha256": "5b79e56137a9116db52f1f957844300c8dd27cdbcf76bf8dcaea4fa9e084d95c",
+          "upscaled": false,
+          "scale": 0.83333,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/responsive/balia-drewno-1920.webp",
+          "width": 1920,
+          "height": 1440,
+          "bytes": 935634,
+          "sha256": "3f631beca85028112eca2e640089e953425d908ecd0ee2d1010137c437b43fb0",
+          "upscaled": true,
+          "scale": 1.25,
+          "role": "responsive",
+          "native4k": false
+        },
+        {
+          "file": "/assets/company-web/4k/balia-drewno-4k.webp",
+          "width": 3840,
+          "height": 2880,
+          "bytes": 2510040,
+          "sha256": "3baaaebea97a615dab9252c13d31124b8cf1a16a2e83434620bfed0871f3ddc5",
+          "upscaled": true,
+          "scale": 2.5,
+          "role": "full-view",
+          "native4k": false
+        }
+      ]
+    }
+  ]
+}

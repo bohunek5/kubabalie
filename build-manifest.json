@@ -1,6 +1,6 @@
 {
   "format": "ssc-public-build-v1",
-  "builtAt": "2026-11-08T13:35:28.529Z",
+  "builtAt": "2026-11-08T14:33:27.383Z",
   "base": "/kubabalie/",
   "routes": [
     "/",
@@ -73,13 +73,13 @@
     "/produkt/balia-family",
     "/produkt/balia-cube"
   ],
-  "privateFileCount": 45,
-  "sourceFileCount": 328,
+  "privateFileCount": 51,
+  "sourceFileCount": 338,
   "publicAssetCount": 223,
-  "appSha256": "b5fa2ddc013668de7ad60a8d412dfc0bd808a54bf31121ceb9e5567f0029800d",
-  "sourceSha256": "dfeb4beda423d44e84c4c68b5f5f76b106360c0ef146d8491d196e6fc0cf93f4",
+  "appSha256": "61256484ddf482839d6ac7630b52b4d5c93007ce5f2669eb8de4eb2c5cdcc6a8",
+  "sourceSha256": "9098430ae49efc2696e40b58daad0f0f579feeb5ee2e045de1a0b6ac9a286567",
   "sourceParts": 2,
-  "sourcePayloadSha256": "6d698c9092582305a804e2b20f06969fbc64af8489bf0b480fb712ec3e547b40",
-  "sourceTotalBytes": 106020408,
+  "sourcePayloadSha256": "88cc4a2d9f80c5b322ee21aa88178a420d11813d282e8b633a95cd13d4dc5ae6",
+  "sourceTotalBytes": 106084484,
   "sourceEncoding": "AES-256-GCM / PBKDF2-SHA-256 600000 / gzip JSON file map"
 }
